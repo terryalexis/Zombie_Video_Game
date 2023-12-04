@@ -18,7 +18,10 @@ Download all the github files into one folder.  Launch 'zombie.exe', and you're 
 
 Survive for as long as possible!  You move on to the next level by killing the required number of zombies.  The number of zombies to kill and the zombie spawn rate increases over time.
 
-https://github.com/terryalexis/Zombie_Video_Game/assets/70789551/432fc7a6-e397-426d-92e1-d6b977ec7f37
+
+https://github.com/terryalexis/Zombie_Video_Game/assets/70789551/6c27f202-0e0e-4ec8-84de-fd5dc2502aa2
+
+
 
 
 
